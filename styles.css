@@ -139,7 +139,8 @@ button:hover{
         border-radius: 2.5rem;
         border: none;
         font-size: 1.5rem;
-        color:rgb(110, 104, 104); ;
+        color:rgb(110, 104, 104); 
+        margin-right: 3rem;
     }
     .socials{
         margin-left: -2rem;
